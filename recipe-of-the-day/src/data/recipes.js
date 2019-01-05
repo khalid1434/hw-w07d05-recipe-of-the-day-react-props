@@ -1,6 +1,6 @@
 const recipes = [
   {
-    name: 'Chunky Baked Bean Sandwich'
+    name: 'Chunky Baked Bean Sandwich',
     servings: 8,
     category: 'appetizer'
   },
